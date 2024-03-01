@@ -1,0 +1,74 @@
+[
+  {
+    "name": "Kanye West",
+    "description": "Born in Atlanta and raised in Chicago, West was first known as a producer for Roc-A-Fella Records in the early 2000s, producing singles for several mainstream artists.",
+    "category": "entertainment",
+    "picture": "https://r2.easyimg.io/izes05rcb/1b70a986034537dee3a98e53b4e5362d.webp",
+    "lastUpdated": "2024-01-10T23:08:57.892Z",
+    "votes": {
+      "positive": 99,
+      "negative": 25
+    },
+    "id": "people:1"
+  },
+  {
+    "name": "Mark Zuckerberg",
+    "description": "Born in White Plains, New York, Zuckerberg attended Harvard University, where he launched the Facebook social networking service from his dormitory room on February 4, 2004.",
+    "category": "business",
+    "picture": "https://r2.easyimg.io/izes05rcb/d5d7166ddb74dd60e14cd42ea4457fcc.webp",
+    "lastUpdated": "2024-02-05T23:10:19.134Z",
+    "votes": {
+      "positive": 419,
+      "negative": 325
+    },
+    "id": "people:2"
+  },
+  {
+    "name": "Cristina Fernández de Kirchner",
+    "description": "Her first term of office started with a conflict with the agricultural sector, and her proposed taxation system was rejected.",
+    "category": "politics",
+    "picture": "https://r2.easyimg.io/izes05rcb/bc83221593b7348787a06d032a2a6dbb.webp",
+    "lastUpdated": "2024-01-10T23:41:07.120Z",
+    "votes": {
+      "positive": 45,
+      "negative": 97
+    },
+    "id": "people:3"
+  },
+  {
+    "name": "Malala Yousafzai",
+    "description": "The daughter of educational activist Ziauddin, Yousafzai was born to a Pashtun family in Mingora, Khyber Pakhtunkhwa, Pakistan. Her family came to run a chain of schools in the region.",
+    "category": "politics",
+    "picture": "https://r2.easyimg.io/izes05rcb/017f8d8f6063e2989538f27f849b080f.webp",
+    "lastUpdated": "2023-02-10T23:41:07.120Z",
+    "votes": {
+      "positive": 18,
+      "negative": 3
+    },
+    "id": "people:4"
+  },
+  {
+    "name": "Elon Musk",
+    "description": "In 2002, Musk founded SpaceX, an aerospace manufacturer and space transport services company, of which he is CEO, CTO, and lead designer.",
+    "category": "business",
+    "picture": "https://r2.easyimg.io/izes05rcb/c784fb561ef2cb3e170851d33c679161.webp",
+    "lastUpdated": "2023-11-20T23:43:38.041Z",
+    "votes": {
+      "positive": 1237,
+      "negative": 2000
+    },
+    "id": "people:5"
+  },
+  {
+    "name": "Greta Thumberg",
+    "description": "Thunberg's activism started after convincing her parents to adopt several lifestyle choices to reduce their own carbon footprint.",
+    "category": "environment",
+    "picture": "https://r2.easyimg.io/izes05rcb/1abd954cb54588298afc2b6c9a116504.webp",
+    "lastUpdated": "2022-02-26T23:44:50.326Z",
+    "votes": {
+      "positive": 120,
+      "negative": 50
+    },
+    "id": "people:6"
+  }
+]

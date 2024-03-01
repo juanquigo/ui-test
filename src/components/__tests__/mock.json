@@ -1,0 +1,12 @@
+{
+  "id": "fake_id",
+  "name": "",
+  "description": "",
+  "hasVoted": false,
+  "info": "fake data",
+  "votes": {
+    "positive": 90,
+    "negative": 10,
+    "total": 100
+  }
+}
